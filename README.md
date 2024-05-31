@@ -1,6 +1,5 @@
-[![Sawyer's GitHub stats](https://github-readme-stats.vercel.app/api?username=sawyerhood)](https://github.com/anuraghazra/github-readme-stats)
 
-Sawyer here! I'm a software engineer who is currently exploring all of the weird ways we can interact with LLMs.
+🛸 Sawyer here! I'm a software engineer who is currently exploring all of the weird ways we can interact with LLMs.
 
 I'm currently building all of my experiments in public on [twitter](https://x.com/sawyerhood). 
 
