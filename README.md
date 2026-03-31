@@ -3,7 +3,7 @@
 
 I'm currently building all of my experiments in public on [twitter](https://x.com/sawyerhood). 
 
-If you are working on something cool or just want to chat, feel free to reach out to me there!
+If you are working on something cool or just want to chat, feel free to reach out to me via email!
 
 
 <!--
